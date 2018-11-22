@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "214666097431",
+    "firebase_url": "https://aptohome-1056.firebaseio.com",
+    "project_id": "aptohome-1056"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214666097431:android:d86a54cf7b760175",
+        "android_client_info": {
+          "package_name": "com.aptohome.android.crosswalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214666097431-9as3au3f7hpi0vkk8f7dfub7c4e83kh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlszakIM_GmOdS22zYpRWVzjFAFeyGxGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
