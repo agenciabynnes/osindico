@@ -11989,11 +11989,11 @@ function limpar()
 
             var push = PushNotification.init({
                 android: {
-                    senderID: "214666097431"
+                    senderID: "220089926727"
                 },
                 ios: {
-                    senderID: "214666097431",
-                    gcmSandbox: "false", // false para producao true para desenvolvimento
+                    senderID: "220089926727",
+                    gcmSandbox: "true", // false para producao true para desenvolvimento
                     alert: "true",
                     sound: "true",
                     badge: "false"
