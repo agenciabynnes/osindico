@@ -12111,6 +12111,11 @@ function limpar()
                                 mainView.router.load({pageName: 'alertaportariahomecont'});
                                 alertaportariacont(data.additionalData.id,true);
                                 break;
+
+                                case 'enquete':
+                                mainView.router.load({pageName: 'enquetescont'});
+                                enquetescont(data.additionalData.id,true);
+                                break;
                             }
                         }
                     });
@@ -12157,6 +12162,11 @@ function limpar()
                                 mainView.router.load({pageName: 'alertaportariahomecont'});
                                 alertaportariacont(data.additionalData.id,true);
                                 break;
+
+                                case 'enquete':
+                                mainView.router.load({pageName: 'enquetescont'});
+                                enquetescont(data.additionalData.id,true);
+                                break;
                             }
 
                         console.log('CAPTURADO PUSH COM APP EM COLDSTART!');
@@ -12201,6 +12211,11 @@ function limpar()
                                 mainView.router.load({pageName: 'alertaportariahomecont'});
                                 alertaportariacont(data.additionalData.id,true);
                                 break;
+                                case 'enquete':
+                                mainView.router.load({pageName: 'enquetescont'});
+                                enquetescont(data.additionalData.id,true);
+                                break;
+
                             }
                         console.log('CAPTURADO PUSH COM APP EM BACKGROUND!');  
                 }

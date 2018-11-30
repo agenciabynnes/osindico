@@ -87,6 +87,13 @@ id="com.osindico.android.crosswalk"
     <preference name="Orientation" value="default"/>
     <preference name="AndroidLaunchMode" value="singleTop"/>
     <preference name="android-signed" value="true"/>
+
+    <resource-file src="package-assets/icon-notification-48.png" target="res/drawable-mdpi/my_notification_icon.png" />
+    <resource-file src="package-assets/icon-notification-72.png" target="res/drawable-hdpi/my_notification_icon.png" />
+    <resource-file src="package-assets/icon-notification-96.png" target="res/drawable-xhdpi/my_notification_icon.png" />
+    <resource-file src="package-assets/icon-notification-192.png" target="res/drawable-xxhdpi/my_notification_icon.png" />
+    <resource-file src="package-assets/icon-notification-144.png" target="res/drawable-xxxhdpi/my_notification_icon.png" />
+    
 </platform>
 
 <platform name="ios" >
