@@ -7,19 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>214666097431-in9cmu57a483tvqf7vtp4o9lafor2lam.apps.googleusercontent.com</string>
+	<string>220089926727-t409r41jue8dhjol9m5b3v3v43janemh.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.214666097431-in9cmu57a483tvqf7vtp4o9lafor2lam</string>
+	<string>com.googleusercontent.apps.220089926727-t409r41jue8dhjol9m5b3v3v43janemh</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDKB6Q2DeJmxCmG-XOA88iWKmExX2XJzYc</string>
+	<string>AIzaSyCaB34umhNOmaqlkbwhow3cM-ZJxRGYFhY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>214666097431</string>
+	<string>220089926727</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.aptohome.ios</string>
+	<string>com.osindico.ios</string>
 	<key>PROJECT_ID</key>
-	<string>aptohome-1056</string>
+	<string>o-sindico</string>
+	<key>STORAGE_BUCKET</key>
+	<string>o-sindico.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:214666097431:ios:6a42e6e925649fb6</string>
+	<string>1:220089926727:ios:605796afcdfa387e</string>
 	<key>DATABASE_URL</key>
-	<string>https://aptohome-1056.firebaseio.com</string>
+	<string>https://o-sindico.firebaseio.com</string>
 </dict>
 </plist>
